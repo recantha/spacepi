@@ -1097,3 +1097,710 @@ serving client: 94.8.49.33
 serving client: 94.8.49.33
 serving client: 94.8.49.33
 serving client: 94.8.49.33
+serving client: 94.8.49.33
+serving client: 94.8.49.33
+serving client: 94.8.49.33
+serving client: 94.8.49.33
+serving client: 94.8.49.33
+serving client: 94.8.49.33
+serving client: 94.8.49.33
+serving client: 94.8.49.33
+serving client: 94.8.49.33
+serving client: 94.8.49.33
+serving client: 94.170.145.81
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 84.210.25.210
+serving client: 84.210.25.210
+serving client: 66.220.152.7
+serving client: 188.223.89.72
+serving client: 69.171.247.117
+serving client: 46.208.160.13
+serving client: 188.223.89.72
+serving client: 69.171.247.115
+serving client: 79.131.137.154
+serving client: 192.197.60.2
+serving client: 192.197.60.2
+serving client: 77.10.89.25
+serving client: 77.224.70.145
+serving client: 50.56.228.65
+serving client: 50.56.228.65
+serving client: 90.155.93.154
+serving client: 90.155.93.154
+serving client: 124.182.103.57
+serving client: 80.1.219.17
+serving client: 124.182.103.57
+serving client: 124.182.103.57
+serving client: 82.38.147.169
+serving client: 124.182.103.57
+serving client: 124.182.103.57
+serving client: 124.182.103.57
+serving client: 87.91.100.71
+serving client: 81.35.29.135
+serving client: 81.35.29.135
+serving client: 81.35.29.135
+serving client: 81.35.29.135
+serving client: 124.182.103.57
+serving client: 124.182.103.57
+serving client: 124.182.103.57
+serving client: 69.171.247.118
+serving client: 69.171.247.117
+serving client: 150.70.172.200
+serving client: 180.241.196.153
+serving client: 173.252.100.116
+serving client: 64.183.208.242
+serving client: 64.183.208.242
+serving client: 173.252.100.117
+serving client: 81.174.40.243
+server stopped, starting
+MJPG Streamer Version: svn rev: 3:160M
+ i: Using V4L2 device.: /dev/video0
+ i: Desired Resolution: 640 x 480
+ i: Frames Per Second.: 4
+ i: Format............: MJPEG
+Adding control for Pan (relative)
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Tilt (relative)
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Pan Reset
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Tilt Reset
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Pan/tilt Reset
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Focus (absolute)
+UVCIOC_CTRL_ADD - Error: Invalid argument
+mapping control for Pan (relative)
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Tilt (relative)
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Pan Reset
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Tilt Reset
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Pan/tilt Reset
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Focus (absolute)
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for LED1 Mode
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for LED1 Frequency
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Disable video processing
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Raw bits per pixel
+UVCIOC_CTRL_MAP - Error: Invalid argument
+ o: www-folder-path...: www/
+ o: HTTP TCP port.....: 8080
+ o: username:password.: disabled
+ o: commands..........: enabled
+libv4l2: error dequeuing buf: Input/output error
+Unable to dequeue buffer: Input/output error
+ i: Error grabbing frames
+server is hanging, killing
+server stopped, starting
+MJPG Streamer Version: svn rev: 3:160M
+ i: Using V4L2 device.: /dev/video0
+ i: Desired Resolution: 640 x 480
+ i: Frames Per Second.: 4
+ i: Format............: MJPEG
+ERROR opening V4L interface: No such file or directory
+ Init v4L2 failed !! exit fatal 
+ i: init_VideoIn failed
+server stopped, starting
+MJPG Streamer Version: svn rev: 3:160M
+ i: Using V4L2 device.: /dev/video0
+ i: Desired Resolution: 640 x 480
+ i: Frames Per Second.: 4
+ i: Format............: MJPEG
+ERROR opening V4L interface: No such file or directory
+ Init v4L2 failed !! exit fatal 
+ i: init_VideoIn failed
+server stopped, starting
+MJPG Streamer Version: svn rev: 3:160M
+ i: Using V4L2 device.: /dev/video0
+ i: Desired Resolution: 640 x 480
+ i: Frames Per Second.: 4
+ i: Format............: MJPEG
+ERROR opening V4L interface: No such file or directory
+ Init v4L2 failed !! exit fatal 
+ i: init_VideoIn failed
+server stopped, starting
+MJPG Streamer Version: svn rev: 3:160M
+ i: Using V4L2 device.: /dev/video0
+ i: Desired Resolution: 640 x 480
+ i: Frames Per Second.: 4
+ i: Format............: MJPEG
+ERROR opening V4L interface: No such file or directory
+ Init v4L2 failed !! exit fatal 
+ i: init_VideoIn failed
+server stopped, starting
+MJPG Streamer Version: svn rev: 3:160M
+ i: Using V4L2 device.: /dev/video0
+ i: Desired Resolution: 640 x 480
+ i: Frames Per Second.: 4
+ i: Format............: MJPEG
+ERROR opening V4L interface: No such file or directory
+ Init v4L2 failed !! exit fatal 
+ i: init_VideoIn failed
+server stopped, starting
+MJPG Streamer Version: svn rev: 3:160M
+ i: Using V4L2 device.: /dev/video0
+ i: Desired Resolution: 640 x 480
+ i: Frames Per Second.: 4
+ i: Format............: MJPEG
+ERROR opening V4L interface: No such file or directory
+ Init v4L2 failed !! exit fatal 
+ i: init_VideoIn failed
+server stopped, starting
+MJPG Streamer Version: svn rev: 3:160M
+ i: Using V4L2 device.: /dev/video0
+ i: Desired Resolution: 640 x 480
+ i: Frames Per Second.: 4
+ i: Format............: MJPEG
+ERROR opening V4L interface: No such file or directory
+ Init v4L2 failed !! exit fatal 
+ i: init_VideoIn failed
+server stopped, starting
+MJPG Streamer Version: svn rev: 3:160M
+ i: Using V4L2 device.: /dev/video0
+ i: Desired Resolution: 640 x 480
+ i: Frames Per Second.: 4
+ i: Format............: MJPEG
+ERROR opening V4L interface: No such file or directory
+ Init v4L2 failed !! exit fatal 
+ i: init_VideoIn failed
+server stopped, starting
+MJPG Streamer Version: svn rev: 3:160M
+ i: Using V4L2 device.: /dev/video0
+ i: Desired Resolution: 640 x 480
+ i: Frames Per Second.: 4
+ i: Format............: MJPEG
+ERROR opening V4L interface: No such file or directory
+ Init v4L2 failed !! exit fatal 
+ i: init_VideoIn failed
+server stopped, starting
+MJPG Streamer Version: svn rev: 3:160M
+ i: Using V4L2 device.: /dev/video0
+ i: Desired Resolution: 640 x 480
+ i: Frames Per Second.: 4
+ i: Format............: MJPEG
+ERROR opening V4L interface: No such file or directory
+ Init v4L2 failed !! exit fatal 
+ i: init_VideoIn failed
+MJPG Streamer Version: svn rev: 3:160M
+ i: Using V4L2 device.: /dev/video0
+ i: Desired Resolution: 640 x 480
+ i: Frames Per Second.: 4
+ i: Format............: MJPEG
+ERROR opening V4L interface: No such file or directory
+ Init v4L2 failed !! exit fatal 
+ i: init_VideoIn failed
+MJPG Streamer Version: svn rev: 3:160M
+ i: Using V4L2 device.: /dev/video0
+ i: Desired Resolution: 640 x 480
+ i: Frames Per Second.: 4
+ i: Format............: MJPEG
+Adding control for Pan (relative)
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Tilt (relative)
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Pan Reset
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Tilt Reset
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Pan/tilt Reset
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Focus (absolute)
+UVCIOC_CTRL_ADD - Error: Invalid argument
+mapping control for Pan (relative)
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Tilt (relative)
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Pan Reset
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Tilt Reset
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Pan/tilt Reset
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Focus (absolute)
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for LED1 Mode
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for LED1 Frequency
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Disable video processing
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Raw bits per pixel
+UVCIOC_CTRL_MAP - Error: Invalid argument
+ o: www-folder-path...: www/
+ o: HTTP TCP port.....: 8080
+ o: username:password.: disabled
+ o: commands..........: enabled
+starting hanging check task
+starting running check task
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 77.97.108.161
+serving client: 77.97.108.161
+serving client: 86.140.233.8
+serving client: 86.140.233.8
+serving client: 77.97.108.161
+serving client: 62.31.46.111
+serving client: 62.31.46.111
+serving client: 62.31.46.111
+serving client: 86.140.233.8
+serving client: 62.31.46.111
+serving client: 77.97.108.161
+serving client: 86.140.233.8
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 77.97.108.161
+serving client: 77.97.108.161
+serving client: 77.97.108.161
+serving client: 178.16.3.192
+serving client: 178.16.3.192
+serving client: 77.97.108.161
+serving client: 77.97.108.161
+serving client: 90.199.55.245
+serving client: 178.16.3.192
+serving client: 178.16.3.192
+serving client: 77.97.108.161
+serving client: 77.97.108.161
+serving client: 77.97.108.161
+serving client: 77.97.108.161
+serving client: 77.97.108.161
+serving client: 31.52.173.193
+serving client: 31.52.173.193
+serving client: 31.52.173.193
+serving client: 82.9.140.133
+serving client: 80.217.58.213
+serving client: 66.249.81.179
+serving client: 95.244.14.97
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 2.102.18.175
+serving client: 62.24.181.134
+serving client: 62.24.181.134
+serving client: 192.168.1.64
+serving client: 82.44.147.30
+serving client: 95.244.14.97
+serving client: 95.244.14.97
+serving client: 89.242.18.54
+serving client: 85.247.19.234
+serving client: 95.244.14.97
+serving client: 95.244.14.97
+serving client: 62.24.252.133
+serving client: 89.242.18.54
+serving client: 89.242.18.54
+serving client: 95.244.14.97
+serving client: 95.244.14.97
+serving client: 95.244.14.97
+serving client: 95.244.14.97
+serving client: 95.244.14.97
+serving client: 95.244.14.97
+serving client: 95.244.14.97
+serving client: 95.244.14.97
+serving client: 95.244.14.97
+serving client: 95.244.14.97
+serving client: 95.244.14.97
+serving client: 95.244.14.97
+serving client: 84.31.141.114
+serving client: 95.244.14.97
+serving client: 188.25.5.106
+serving client: 188.25.5.106
+serving client: 95.244.14.97
+serving client: 188.25.5.106
+serving client: 188.25.5.106
+serving client: 188.25.5.106
+serving client: 95.244.14.97
+serving client: 86.175.101.94
+serving client: 86.175.101.94
+serving client: 213.83.78.109
+serving client: 94.171.20.202
+serving client: 31.52.173.193
+serving client: 126.42.6.86
+serving client: 126.42.6.86
+serving client: 126.42.6.86
+serving client: 126.42.6.86
+serving client: 126.42.6.86
+serving client: 126.42.6.86
+serving client: 126.42.6.86
+serving client: 126.42.6.86
+serving client: 87.112.124.210
+serving client: 87.112.124.210
+serving client: 87.112.124.210
+serving client: 87.112.124.210
+serving client: 24.108.94.86
+serving client: 94.172.81.207
+serving client: 92.202.23.140
+serving client: 92.202.23.140
+serving client: 92.202.23.140
+serving client: 96.231.237.33
+serving client: 92.202.23.140
+MJPG Streamer Version: svn rev: 3:160M
+ i: Using V4L2 device.: /dev/video0
+ i: Desired Resolution: 640 x 480
+ i: Frames Per Second.: 4
+ i: Format............: MJPEG
+Adding control for Pan (relative)
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Tilt (relative)
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Pan Reset
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Tilt Reset
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Pan/tilt Reset
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Focus (absolute)
+UVCIOC_CTRL_ADD - Error: Invalid argument
+mapping control for Pan (relative)
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Tilt (relative)
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Pan Reset
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Tilt Reset
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Pan/tilt Reset
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Focus (absolute)
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for LED1 Mode
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for LED1 Frequency
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Disable video processing
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Raw bits per pixel
+UVCIOC_CTRL_MAP - Error: Invalid argument
+ o: www-folder-path...: www/
+ o: HTTP TCP port.....: 8080
+ o: username:password.: disabled
+ o: commands..........: enabled
+starting hanging check task
+starting running check task
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 105.236.59.227
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 80.239.242.174
+serving client: 80.239.242.174
+serving client: 50.46.240.116
+serving client: 149.135.146.46
+serving client: 171.7.154.233
+serving client: 171.7.154.233
+serving client: 171.7.154.233
+serving client: 171.7.154.233
+serving client: 171.7.154.233
+serving client: 171.7.154.233
+serving client: 171.7.154.233
+serving client: 171.7.154.233
+serving client: 171.7.154.233
+serving client: 171.7.154.233
+serving client: 171.7.154.233
+serving client: 171.7.154.233
+serving client: 171.7.154.233
+serving client: 171.7.154.233
+serving client: 91.193.210.138
+serving client: 91.193.210.138
+serving client: 116.88.140.177
+serving client: 65.55.215.238
+serving client: 212.226.75.176
+serving client: 81.37.77.140
+serving client: 122.177.158.221
+serving client: 46.33.129.31
+serving client: 68.32.118.10
+serving client: 68.32.118.10
+serving client: 68.32.118.10
+serving client: 68.32.118.10
+serving client: 68.32.118.10
+serving client: 176.46.214.207
+serving client: 86.221.18.241
+serving client: 121.169.190.214
+serving client: 118.137.137.147
+serving client: 121.169.190.214
+serving client: 86.221.18.241
+serving client: 91.157.77.74
+serving client: 91.157.77.74
+serving client: 31.51.154.21
+serving client: 86.221.18.241
+serving client: 86.221.18.241
+serving client: 46.33.129.31
+serving client: 46.33.129.31
+serving client: 31.51.154.21
+serving client: 115.64.21.237
+serving client: 46.33.129.31
+serving client: 46.33.129.31
+serving client: 46.33.129.31
+serving client: 46.33.129.31
+serving client: 46.33.129.31
+serving client: 46.33.129.31
+serving client: 77.97.24.196
+serving client: 77.97.24.196
+serving client: 77.97.24.196
+serving client: 77.97.24.196
+serving client: 77.97.24.196
+serving client: 77.97.24.196
+serving client: 77.97.24.196
+serving client: 77.97.24.196
+serving client: 81.88.214.23
+serving client: 87.162.72.147
+serving client: 87.162.72.147
+serving client: 66.249.81.179
+serving client: 86.7.88.111
+serving client: 86.7.88.111
+serving client: 109.152.52.191
+serving client: 203.217.27.216
+serving client: 68.144.56.165
+serving client: 68.144.56.165
+serving client: 78.148.18.210
+serving client: 78.148.18.210
+serving client: 78.148.18.210
+serving client: 78.148.18.210
+serving client: 78.148.18.210
+serving client: 122.148.156.184
+serving client: 87.10.4.81
+serving client: 87.10.4.81
+serving client: 78.148.18.210
+serving client: 78.148.18.210
+serving client: 83.252.149.107
+serving client: 83.252.149.107
+serving client: 83.252.149.107
+serving client: 83.252.149.107
+serving client: 83.252.149.107
+serving client: 83.252.149.107
+serving client: 109.184.74.199
+serving client: 78.148.18.210
+serving client: 78.148.18.210
+serving client: 24.116.154.233
+serving client: 24.116.154.233
+serving client: 24.116.154.233
+serving client: 93.97.143.30
+serving client: 24.116.154.233
+serving client: 78.148.18.210
+serving client: 78.148.18.210
+serving client: 109.231.160.2
+serving client: 109.231.160.2
+serving client: 77.224.70.145
+serving client: 78.86.25.221
+serving client: 78.86.25.221
+serving client: 78.86.25.221
+serving client: 78.86.25.221
+serving client: 78.86.25.221
+serving client: 78.86.25.221
+serving client: 78.86.25.221
+serving client: 109.231.160.2
+serving client: 109.231.160.2
+serving client: 78.86.25.221
+serving client: 78.86.25.221
+serving client: 109.231.160.2
+serving client: 66.249.81.179
+serving client: 87.121.240.18
+serving client: 24.235.240.113
+serving client: 87.114.7.51
+serving client: 87.114.7.51
+serving client: 87.114.7.51
+serving client: 87.114.7.51
+serving client: 87.114.7.51
+serving client: 85.85.104.128
+serving client: 85.85.104.128
+serving client: 85.85.104.128
+serving client: 85.85.104.128
+serving client: 85.85.104.128
+serving client: 85.85.104.128
+serving client: 85.85.104.128
+serving client: 85.85.104.128
+serving client: 85.85.104.128
+serving client: 85.85.104.128
+serving client: 66.249.81.179
+serving client: 90.198.183.128
+serving client: 90.198.183.128
+serving client: 90.198.183.128
+serving client: 90.198.183.128
+serving client: 85.85.104.128
+serving client: 126.42.6.86
+serving client: 126.42.6.86
+serving client: 86.140.218.79
+serving client: 126.42.6.86
+serving client: 126.42.6.86
+serving client: 114.77.119.66
+serving client: 126.42.6.86
+serving client: 126.42.6.86
+serving client: 114.77.119.66
+serving client: 85.85.104.128
+serving client: 126.42.6.86
+serving client: 126.42.6.86
+serving client: 85.85.104.128
+serving client: 85.85.104.128
+serving client: 80.239.242.174
+serving client: 86.128.4.169
+serving client: 85.85.104.128
+serving client: 80.239.242.174
+serving client: 85.85.104.128
+serving client: 85.85.104.128
+serving client: 82.238.253.2
+serving client: 82.238.253.2
+serving client: 85.85.104.128
+serving client: 85.85.104.128
+serving client: 88.176.154.215
+serving client: 92.37.34.172
+serving client: 62.163.63.181
+serving client: 62.163.63.181
+serving client: 119.32.38.248
+serving client: 62.163.63.181
+serving client: 119.147.146.118
+serving client: 84.174.198.1
+serving client: 62.163.63.181
+serving client: 86.151.109.221
+serving client: 86.151.109.221
+serving client: 86.19.147.105
+serving client: 62.163.63.181
+serving client: 62.163.63.181
+serving client: 62.163.63.181
+serving client: 31.140.9.38
+serving client: 62.163.63.181
+serving client: 80.177.222.179
+serving client: 149.3.139.91
+serving client: 46.179.255.99
+serving client: 46.179.255.99
+serving client: 182.6.24.186
+serving client: 182.6.24.186
+serving client: 182.6.24.186
+serving client: 182.6.24.186
+MJPG Streamer Version: svn rev: 3:160M
+ i: Using V4L2 device.: /dev/video0
+ i: Desired Resolution: 640 x 480
+ i: Frames Per Second.: 4
+ i: Format............: MJPEG
+Adding control for Pan (relative)
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Tilt (relative)
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Pan Reset
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Tilt Reset
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Pan/tilt Reset
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Focus (absolute)
+UVCIOC_CTRL_ADD - Error: Invalid argument
+mapping control for Pan (relative)
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Tilt (relative)
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Pan Reset
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Tilt Reset
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Pan/tilt Reset
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Focus (absolute)
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for LED1 Mode
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for LED1 Frequency
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Disable video processing
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Raw bits per pixel
+UVCIOC_CTRL_MAP - Error: Invalid argument
+ o: www-folder-path...: www/
+ o: HTTP TCP port.....: 8080
+ o: username:password.: disabled
+ o: commands..........: enabled
+serving client: 217.155.40.189
+starting hanging check task
+starting running check task
+serving client: 62.107.125.194
+serving client: 2.225.37.91
+serving client: 2.225.37.91
+serving client: 2.225.37.91
+serving client: 87.115.124.198
+serving client: 78.151.253.44
+serving client: 160.83.73.20
+serving client: 62.24.252.133
+serving client: 62.24.252.133
+serving client: 88.190.23.224
+serving client: 88.190.23.224
+serving client: 78.151.253.44
+serving client: 95.102.199.188
+serving client: 95.102.199.188
+serving client: 95.102.199.188
+serving client: 95.102.199.188
+serving client: 155.56.68.217
+serving client: 155.56.68.217
+serving client: 155.56.68.217
+serving client: 122.176.129.4
+serving client: 31.221.45.202
+serving client: 31.221.45.202
+serving client: 176.252.61.211
+serving client: 176.252.61.211
+serving client: 80.13.175.151
+serving client: 92.202.32.220
+serving client: 92.202.32.220
+serving client: 193.49.124.107
+serving client: 194.82.145.10
+serving client: 82.243.37.16
+serving client: 212.160.147.37
+serving client: 212.160.147.37
+serving client: 212.113.189.192
+serving client: 93.136.82.124
+serving client: 93.136.82.124
+serving client: 93.136.82.124
+serving client: 212.185.185.164
+serving client: 176.252.61.211
+serving client: 176.252.61.211
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 195.47.223.5
+serving client: 195.47.223.5
+serving client: 192.168.1.64
+serving client: 50.56.196.47
+serving client: 50.55.184.82
+serving client: 109.134.19.192
+serving client: 109.134.19.192
+serving client: 98.214.116.157
+serving client: 98.214.116.157
+serving client: 98.214.116.157
+serving client: 86.130.209.0
+serving client: 86.130.209.0
+serving client: 86.130.209.0
+serving client: 212.183.128.190
+serving client: 212.183.128.190
+serving client: 157.164.187.131
+serving client: 86.130.209.0
+serving client: 98.214.116.157
+serving client: 98.214.116.157
+serving client: 86.165.219.146
+serving client: 98.214.116.157
+serving client: 98.214.116.157
+serving client: 195.80.165.61
+serving client: 92.79.135.129
+serving client: 50.46.156.128
+serving client: 50.46.156.128
+serving client: 93.50.205.165
+serving client: 93.50.205.165
+serving client: 195.80.165.61
+serving client: 188.95.201.6
+serving client: 77.73.8.58
+serving client: 98.214.116.157
+serving client: 98.214.116.157
+serving client: 98.214.116.157
+serving client: 98.214.116.157
+serving client: 98.214.116.157
