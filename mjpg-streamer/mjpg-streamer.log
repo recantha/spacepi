@@ -1804,3 +1804,452 @@ serving client: 98.214.116.157
 serving client: 98.214.116.157
 serving client: 98.214.116.157
 serving client: 98.214.116.157
+MJPG Streamer Version: svn rev: 3:160M
+ i: Using V4L2 device.: /dev/video0
+ i: Desired Resolution: 640 x 480
+ i: Frames Per Second.: 4
+ i: Format............: MJPEG
+Adding control for Pan (relative)
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Tilt (relative)
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Pan Reset
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Tilt Reset
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Pan/tilt Reset
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Focus (absolute)
+UVCIOC_CTRL_ADD - Error: Invalid argument
+mapping control for Pan (relative)
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Tilt (relative)
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Pan Reset
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Tilt Reset
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Pan/tilt Reset
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Focus (absolute)
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for LED1 Mode
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for LED1 Frequency
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Disable video processing
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Raw bits per pixel
+UVCIOC_CTRL_MAP - Error: Invalid argument
+ o: www-folder-path...: www/
+ o: HTTP TCP port.....: 8080
+ o: username:password.: disabled
+ o: commands..........: enabled
+starting running check task
+starting hanging check task
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 64.208.49.214
+serving client: 209.203.101.2
+serving client: 209.203.101.2
+serving client: 209.203.101.2
+serving client: 209.203.101.2
+serving client: 76.102.77.146
+serving client: 64.208.49.214
+serving client: 209.203.101.2
+serving client: 64.208.49.214
+serving client: 64.208.49.214
+serving client: 64.208.49.214
+serving client: 86.162.104.3
+serving client: 86.162.104.3
+serving client: 82.171.99.179
+serving client: 64.208.49.214
+serving client: 84.93.189.222
+serving client: 84.93.189.222
+serving client: 64.208.49.214
+serving client: 64.208.49.214
+serving client: 64.208.49.214
+serving client: 186.213.234.108
+serving client: 84.93.189.222
+serving client: 84.93.189.222
+serving client: 62.23.212.216
+serving client: 62.23.212.216
+serving client: 84.93.189.222
+serving client: 84.93.189.222
+serving client: 62.23.212.216
+serving client: 62.23.212.216
+serving client: 62.23.212.216
+serving client: 186.213.234.108
+serving client: 123.211.52.15
+serving client: 123.211.52.15
+serving client: 123.211.52.15
+serving client: 123.211.52.15
+serving client: 186.213.234.108
+serving client: 186.213.234.108
+serving client: 186.213.234.108
+serving client: 192.41.148.220
+serving client: 186.213.234.108
+serving client: 192.41.148.220
+serving client: 192.41.148.220
+serving client: 201.198.146.154
+serving client: 201.198.146.154
+serving client: 201.198.146.154
+serving client: 201.198.146.154
+serving client: 192.41.148.220
+serving client: 192.41.148.220
+serving client: 192.41.148.220
+serving client: 192.41.148.220
+serving client: 92.27.198.51
+serving client: 192.41.148.220
+serving client: 192.41.148.220
+serving client: 62.24.222.131
+serving client: 192.41.148.220
+serving client: 192.41.148.220
+serving client: 192.41.148.220
+serving client: 82.17.12.67
+serving client: 82.17.12.67
+serving client: 186.213.234.108
+serving client: 201.198.146.154
+serving client: 201.198.146.154
+serving client: 201.198.146.154
+serving client: 201.198.146.154
+serving client: 201.198.146.154
+serving client: 201.198.146.154
+serving client: 46.33.129.31
+serving client: 46.33.129.31
+serving client: 186.213.234.108
+serving client: 201.198.146.154
+serving client: 201.198.146.154
+serving client: 2.30.10.192
+serving client: 2.30.10.192
+serving client: 87.115.110.186
+serving client: 192.41.148.220
+serving client: 192.41.148.220
+serving client: 192.41.148.220
+serving client: 186.213.234.108
+serving client: 81.151.27.111
+serving client: 192.41.148.220
+serving client: 192.41.148.220
+serving client: 146.171.254.96
+serving client: 82.9.219.177
+serving client: 82.9.219.177
+serving client: 62.23.212.216
+serving client: 62.23.212.216
+serving client: 62.23.212.216
+serving client: 62.23.212.216
+serving client: 62.23.212.216
+serving client: 62.23.212.216
+serving client: 62.23.212.216
+serving client: 62.23.212.216
+serving client: 62.23.212.216
+serving client: 62.23.212.216
+serving client: 62.23.212.216
+serving client: 82.9.219.177
+serving client: 62.23.212.216
+serving client: 37.17.251.118
+serving client: 37.17.251.118
+serving client: 2.30.10.192
+serving client: 2.30.10.192
+serving client: 2.30.10.192
+serving client: 2.30.10.192
+serving client: 2.30.10.192
+serving client: 2.30.10.192
+serving client: 146.171.254.96
+serving client: 83.252.149.107
+serving client: 83.252.149.107
+serving client: 151.226.49.30
+serving client: 87.127.25.246
+serving client: 87.127.25.246
+serving client: 117.220.250.17
+serving client: 92.194.17.73
+serving client: 2.100.183.118
+serving client: 2.100.183.118
+serving client: 95.28.117.186
+serving client: 95.28.117.186
+serving client: 62.24.181.135
+serving client: 62.24.181.135
+serving client: 89.240.163.216
+MJPG Streamer Version: svn rev: 3:160M
+ i: Using V4L2 device.: /dev/video0
+ i: Desired Resolution: 640 x 480
+ i: Frames Per Second.: 4
+ i: Format............: MJPEG
+Adding control for Pan (relative)
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Tilt (relative)
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Pan Reset
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Tilt Reset
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Pan/tilt Reset
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Focus (absolute)
+UVCIOC_CTRL_ADD - Error: Invalid argument
+mapping control for Pan (relative)
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Tilt (relative)
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Pan Reset
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Tilt Reset
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Pan/tilt Reset
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Focus (absolute)
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for LED1 Mode
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for LED1 Frequency
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Disable video processing
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Raw bits per pixel
+UVCIOC_CTRL_MAP - Error: Invalid argument
+ o: www-folder-path...: www/
+ o: HTTP TCP port.....: 8080
+ o: username:password.: disabled
+ o: commands..........: enabled
+starting running check task
+starting hanging check task
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 89.244.123.98
+MJPG Streamer Version: svn rev: 3:160M
+ i: Using V4L2 device.: /dev/video0
+ i: Desired Resolution: 640 x 480
+ i: Frames Per Second.: 4
+ i: Format............: MJPEG
+Adding control for Pan (relative)
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Tilt (relative)
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Pan Reset
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Tilt Reset
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Pan/tilt Reset
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Focus (absolute)
+UVCIOC_CTRL_ADD - Error: Invalid argument
+mapping control for Pan (relative)
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Tilt (relative)
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Pan Reset
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Tilt Reset
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Pan/tilt Reset
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Focus (absolute)
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for LED1 Mode
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for LED1 Frequency
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Disable video processing
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Raw bits per pixel
+UVCIOC_CTRL_MAP - Error: Invalid argument
+ o: www-folder-path...: www/
+ o: HTTP TCP port.....: 8080
+ o: username:password.: disabled
+ o: commands..........: enabled
+starting running check task
+starting hanging check task
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 80.177.222.179
+serving client: 80.177.222.179
+serving client: 80.177.222.179
+serving client: 80.177.222.179
+MJPG Streamer Version: svn rev: 3:160M
+ i: Using V4L2 device.: /dev/video0
+ i: Desired Resolution: 640 x 480
+ i: Frames Per Second.: 4
+ i: Format............: MJPEG
+Adding control for Pan (relative)
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Tilt (relative)
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Pan Reset
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Tilt Reset
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Pan/tilt Reset
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Focus (absolute)
+UVCIOC_CTRL_ADD - Error: Invalid argument
+mapping control for Pan (relative)
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Tilt (relative)
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Pan Reset
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Tilt Reset
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Pan/tilt Reset
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Focus (absolute)
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for LED1 Mode
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for LED1 Frequency
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Disable video processing
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Raw bits per pixel
+UVCIOC_CTRL_MAP - Error: Invalid argument
+ o: www-folder-path...: www/
+ o: HTTP TCP port.....: 8080
+ o: username:password.: disabled
+ o: commands..........: enabled
+starting hanging check task
+starting running check task
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 61.36.30.245
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 86.146.161.187
+serving client: 78.179.127.170
+serving client: 78.179.127.170
+serving client: 82.28.149.163
+serving client: 82.28.149.163
+serving client: 82.28.149.163
+MJPG Streamer Version: svn rev: 3:160M
+ i: Using V4L2 device.: /dev/video0
+ i: Desired Resolution: 640 x 480
+ i: Frames Per Second.: 4
+ i: Format............: MJPEG
+Adding control for Pan (relative)
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Tilt (relative)
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Pan Reset
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Tilt Reset
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Pan/tilt Reset
+UVCIOC_CTRL_ADD - Error: Invalid argument
+Adding control for Focus (absolute)
+UVCIOC_CTRL_ADD - Error: Invalid argument
+mapping control for Pan (relative)
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Tilt (relative)
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Pan Reset
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Tilt Reset
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Pan/tilt Reset
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Focus (absolute)
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for LED1 Mode
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for LED1 Frequency
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Disable video processing
+UVCIOC_CTRL_MAP - Error: Invalid argument
+mapping control for Raw bits per pixel
+UVCIOC_CTRL_MAP - Error: Invalid argument
+ o: www-folder-path...: www/
+ o: HTTP TCP port.....: 8080
+ o: username:password.: disabled
+ o: commands..........: enabled
+starting hanging check task
+starting running check task
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 192.168.1.64
+serving client: 80.177.222.179
+serving client: 80.177.222.179
+serving client: 188.223.98.195
+MJPG Streamer Version: svn rev: 3:160M
+ERROR: could not find input plugin
+       Perhaps you want to adjust the search path with:
+       # export LD_LIBRARY_PATH=/path/to/plugin/folder
+       dlopen: libv4l2.so.0: cannot open shared object file: No such file or directory
+MJPG Streamer Version: svn rev: 3:160M
+ERROR: could not find input plugin
+       Perhaps you want to adjust the search path with:
+       # export LD_LIBRARY_PATH=/path/to/plugin/folder
+       dlopen: libv4l2.so.0: cannot open shared object file: No such file or directory
+MJPG Streamer Version: svn rev: 3:160M
+ERROR: could not find input plugin
+       Perhaps you want to adjust the search path with:
+       # export LD_LIBRARY_PATH=/path/to/plugin/folder
+       dlopen: libv4l2.so.0: cannot open shared object file: No such file or directory
